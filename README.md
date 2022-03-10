@@ -5,6 +5,8 @@ clone recursively
 
 `git submodule status`
 
+ignore=all
+
 ## updateing branch
 
 1. Update remote first
