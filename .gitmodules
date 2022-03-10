@@ -1,0 +1,4 @@
+[submodule "POC-component-sharing-producer"]
+	path = POC-component-sharing-producer
+	url = git@github.com:aomini/POC-component-sharing-producer.git
+	branch = develop
