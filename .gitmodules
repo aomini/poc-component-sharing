@@ -2,4 +2,4 @@
 	path = POC-component-sharing-producer
 	url = git@github.com:aomini/POC-component-sharing-producer.git
 	branch = develop
-  ignore=all
+  # ignore=all
